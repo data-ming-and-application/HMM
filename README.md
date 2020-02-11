@@ -28,7 +28,7 @@ main.py: help and command line interface, detailed description of parameters.
 
 ## Custom dataset
 
-Since the Corporate Relative Valuation dataset is our private dataset and can't be published, we removed the data/ folder.
+The data set used in this project will be announced after the article is published with the permission of the data owner.
 
 We provide a detailed format here in case of usage on other datasets.
 
