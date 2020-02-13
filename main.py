@@ -20,7 +20,7 @@ if __name__ == "__main__":
                         default=1e-5, help="weight_decay in optimizer")
     parser.add_argument("--v1_num", type=int, default=8,
                         help="number of company nodes in neighbourhood")
-    parser.add_argument("--v2_num", type=int, default=16,
+    parser.add_argument("--v2_num", type=int, default=4,
                         help="number of people nodes in neighbourhood")
     parser.add_argument("--hidden_dim", type=int,
                         default=128, help="hidden layer size")
